@@ -1,2 +1,5 @@
 .DS_Store
 **/.DS_Store
+
+# 解凍済みデモフォルダ（hoge.zip と重複するため除外）
+hoge/
